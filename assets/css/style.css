@@ -34,6 +34,12 @@ hr {
     display: inline-block;
 }
 
+#galeria2 img{
+    width: 100%;
+    display: inline-block;
+
+}
+
 .carousel-indicators {
     position: relative;
 }
@@ -49,6 +55,11 @@ hr {
     header{
         min-height: 50rem;;
     }
+
+    #galeria2{
+        display: none;
+    }
+    
 }
 
 @media (max-width:991px){
