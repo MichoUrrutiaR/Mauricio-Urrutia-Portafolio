@@ -59,6 +59,10 @@ hr {
     #galeria2{
         display: none;
     }
+
+    .nomostrarlg{
+        display: none;
+    }
     
 }
 
